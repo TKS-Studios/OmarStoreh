@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+
+Sitemap: https://omarstore.netlify.app/sitemap.xml
